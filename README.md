@@ -1,5 +1,3 @@
-## .preview
-file:///C:/Users/tanuj/Downloads/todo-list-master/todo-list-master/index.html
 
 ## .features
 - [x] Show tasks list
