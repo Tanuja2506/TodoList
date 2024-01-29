@@ -1,5 +1,5 @@
 ## .preview
-![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
+file:///C:/Users/tanuj/Downloads/todo-list-master/todo-list-master/index.html
 
 ## .features
 - [x] Show tasks list
